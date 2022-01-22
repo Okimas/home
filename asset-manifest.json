@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.aa05ec35.css",
+    "main.css": "/home/static/css/main.31776572.css",
     "main.js": "/home/static/js/main.c655eab1.js",
     "static/js/787.82398c9d.chunk.js": "/home/static/js/787.82398c9d.chunk.js",
     "static/media/PoiretOne-Regular.ttf": "/home/static/media/PoiretOne-Regular.a453ae9bf019e86c566c.ttf",
@@ -8,12 +8,12 @@
     "static/media/background-light.jpg": "/home/static/media/background-light.fcfe7f6f9c12506b2b69.jpg",
     "static/media/icons.svg": "/home/static/media/icons.79860b11eff7eff93a2c801b03b3eb76.svg",
     "index.html": "/home/index.html",
-    "main.aa05ec35.css.map": "/home/static/css/main.aa05ec35.css.map",
+    "main.31776572.css.map": "/home/static/css/main.31776572.css.map",
     "main.c655eab1.js.map": "/home/static/js/main.c655eab1.js.map",
     "787.82398c9d.chunk.js.map": "/home/static/js/787.82398c9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.aa05ec35.css",
+    "static/css/main.31776572.css",
     "static/js/main.c655eab1.js"
   ]
 }
