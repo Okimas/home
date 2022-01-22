@@ -49,7 +49,9 @@
   border-radius: 50%;
 }
 .scene .images {
-  width: calc(100%-48px);
+  /* width: calc(100%-48px); */
+  /* width: calc(100% - 64px); */
+  width: 100%;
   background-color: rgba(0, 0, 0, 0.1);
   white-space: nowrap;
 }

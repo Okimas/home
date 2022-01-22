@@ -265,7 +265,7 @@ const staticData = [
             text: `Still an employee, I studied and worked almost every night, thinking about having my own company and at some point requests for projects in software and systems started to appear, more than I could handle, working in a company. At the time, any problem, of any kind, seemed to require a solution in software or a platform. I started as a self-employed worker in 2012. This demand for solutions in software/platforms could not have different consequences. Many companies have entered this market and an explosion of freelance developers. The competition has not significantly affected my business. I had several finished projects in use, a good network of contacts and my clients weren't big.`,
           },
           {
-            title: "Crise & Oportunidades",
+            title: "crisis & opportunities",
             text: `In 2015, developments went into rapid decline but not just for me. I decided to revive old interests that I can summarize in a single expression: "Environmental Technologies". And not by chance, an opportunity arose to participate in a <a href="https://fapesp.br" target="_blank">FAPESP</a> project, <a href="https://bv.fapesp.br/pt/pesquisador/693827/ricardo-augusto-okimoto" target="_blank">Low cost wind generators remotely monitored</a>. I went to work on this project in São José dos Campos - SP. Technically nothing new in this project, but knowledge and immersion in the new area were valuable.<br/>The demand for new projects was still low and the pandemic came! I decided to focus more on mobile development. And after a lot of study and research I started planning and soon it will be time for action.`,
           },
         ],
