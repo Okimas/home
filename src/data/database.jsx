@@ -11,7 +11,7 @@ const staticData = [
       name: "Ricardo Okimoto",
       role: "Desenvolvedor Autônomo",
       image:
-        "https://imagens.brasil.elpais.com/resizer/5DO82rz-Fg0gx_XUcPN4tiQ4D5c=/980x735/cloudfront-eu-central-1.images.arcpublishing.com/prisa/F34R4EEJ2RG3DKUGSVKBLC2GXA.jpeg",
+        "https://github.com/Okimas/home/blob/master/src/assets/images/user.png?raw=true",
     },
     script: [
       {
@@ -21,7 +21,7 @@ const staticData = [
         texts: [
           {
             image: {
-              url: "https://imagens.brasil.elpais.com/resizer/5DO82rz-Fg0gx_XUcPN4tiQ4D5c=/980x735/cloudfront-eu-central-1.images.arcpublishing.com/prisa/F34R4EEJ2RG3DKUGSVKBLC2GXA.jpeg",
+              url: "https://github.com/Okimas/home/blob/master/src/assets/images/user.png?raw=true",
               class: "rounded",
               alt: "welcome",
             },
@@ -134,7 +134,7 @@ const staticData = [
         texts: [
           {
             image: {
-              url: "https://imagens.brasil.elpais.com/resizer/5DO82rz-Fg0gx_XUcPN4tiQ4D5c=/980x735/cloudfront-eu-central-1.images.arcpublishing.com/prisa/F34R4EEJ2RG3DKUGSVKBLC2GXA.jpeg",
+              url: "https://github.com/Okimas/home/blob/master/src/assets/images/user.png?raw=true",
               class: "rounded columm",
               alt: "welcome",
             },
@@ -164,7 +164,7 @@ const staticData = [
         texts: [
           {
             image: {
-              url: "https://imagens.brasil.elpais.com/resizer/5DO82rz-Fg0gx_XUcPN4tiQ4D5c=/980x735/cloudfront-eu-central-1.images.arcpublishing.com/prisa/F34R4EEJ2RG3DKUGSVKBLC2GXA.jpeg",
+              url: "https://github.com/Okimas/home/blob/master/src/assets/images/user.png?raw=true",
               class: "rounded",
               alt: "welcome",
             },
@@ -277,7 +277,7 @@ const staticData = [
         texts: [
           {
             image: {
-              url: "https://imagens.brasil.elpais.com/resizer/5DO82rz-Fg0gx_XUcPN4tiQ4D5c=/980x735/cloudfront-eu-central-1.images.arcpublishing.com/prisa/F34R4EEJ2RG3DKUGSVKBLC2GXA.jpeg",
+              url: "https://github.com/Okimas/home/blob/master/src/assets/images/user.png?raw=true",
               class: "rounded columm",
               alt: "welcome",
             },
