@@ -9,5 +9,8 @@ You can see in the code that all the content of page come from a object `staticD
 ### Screens
 
 ![Desktop](src/assets/images/screen-d-l.png)
-![Mobile (Dark)](src/assets/images/screen-m-d.png)
-![Mobile (Dark)](src/assets/images/screen-m-l.png)
+<img src="src/assets/images/screen-m-d.png" width="320"/>
+<img src="src/assets/images/screen-m-l.png" width="320"/>
+
+<!-- ![Mobile (Dark)](src/assets/images/screen-m-d.png)
+![Mobile (Dark)](src/assets/images/screen-m-l.png) -->
