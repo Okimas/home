@@ -10,7 +10,7 @@ import { getStoragedData } from "./data/localStorage";
 class App extends Component {
   state = {
     theme: "light",
-    language: "pt-BR",
+    language: window.navigator.language,
     data: null,
     sectionActive: 0,
     imageViewer: null,
