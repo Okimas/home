@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.d882efbe.css",
-    "main.js": "/home/static/js/main.087d7257.js",
+    "main.css": "/home/static/css/main.845d0c83.css",
+    "main.js": "/home/static/js/main.8f1488b7.js",
     "static/js/787.82398c9d.chunk.js": "/home/static/js/787.82398c9d.chunk.js",
     "static/media/PoiretOne-Regular.ttf": "/home/static/media/PoiretOne-Regular.a453ae9bf019e86c566c.ttf",
     "static/media/background-dark.jpg": "/home/static/media/background-dark.a5fd5c9fb2efd02a1992.jpg",
     "static/media/background-light.jpg": "/home/static/media/background-light.fcfe7f6f9c12506b2b69.jpg",
     "static/media/icons.svg": "/home/static/media/icons.79860b11eff7eff93a2c801b03b3eb76.svg",
     "index.html": "/home/index.html",
-    "main.d882efbe.css.map": "/home/static/css/main.d882efbe.css.map",
-    "main.087d7257.js.map": "/home/static/js/main.087d7257.js.map",
+    "main.845d0c83.css.map": "/home/static/css/main.845d0c83.css.map",
+    "main.8f1488b7.js.map": "/home/static/js/main.8f1488b7.js.map",
     "787.82398c9d.chunk.js.map": "/home/static/js/787.82398c9d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d882efbe.css",
-    "static/js/main.087d7257.js"
+    "static/css/main.845d0c83.css",
+    "static/js/main.8f1488b7.js"
   ]
 }
