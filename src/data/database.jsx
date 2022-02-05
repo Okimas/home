@@ -59,7 +59,7 @@ const staticData = [
           title: "telas/mockups",
           list: [
             {
-              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screenl.png",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen1.png",
               alt: "",
             },
             {
@@ -214,7 +214,7 @@ const staticData = [
           title: "screens/mockups",
           list: [
             {
-              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screenl.png",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen1.png",
               alt: "",
             },
             {
