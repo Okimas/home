@@ -59,19 +59,31 @@ const staticData = [
           title: "telas/mockups",
           list: [
             {
-              url: "https://previews.123rf.com/images/spicytruffel/spicytruffel2001/spicytruffel200100080/138443653-calendar-app-phone-application-ui-with-calendar-concept-schedule-and-reminder-design-vector-smartpho.jpg",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screenl.png",
               alt: "",
             },
             {
-              url: "https://cdn.dribbble.com/users/1472952/screenshots/6299574/medicine_reminder_application_design_-_02_4x.jpg?compress=1&resize=400x300",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen2.png",
               alt: "",
             },
             {
-              url: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/163822602/original/34210039cf158d6abf3597964935ddb737a4e4ff/develop-a-water-reminder-app-like-hydro.jpg",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen3.png",
               alt: "",
             },
             {
-              url: "https://i.pinimg.com/474x/29/56/9b/29569b7234b60e44fc69faac4bdcd838.jpg",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen4.png",
+              alt: "",
+            },
+            {
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen5.png",
+              alt: "",
+            },
+            {
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen6.png",
+              alt: "",
+            },
+            {
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen7.png",
               alt: "",
             },
           ],
@@ -202,19 +214,31 @@ const staticData = [
           title: "screens/mockups",
           list: [
             {
-              url: "https://previews.123rf.com/images/spicytruffel/spicytruffel2001/spicytruffel200100080/138443653-calendar-app-phone-application-ui-with-calendar-concept-schedule-and-reminder-design-vector-smartpho.jpg",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screenl.png",
               alt: "",
             },
             {
-              url: "https://cdn.dribbble.com/users/1472952/screenshots/6299574/medicine_reminder_application_design_-_02_4x.jpg?compress=1&resize=400x300",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen2.png",
               alt: "",
             },
             {
-              url: "https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/163822602/original/34210039cf158d6abf3597964935ddb737a4e4ff/develop-a-water-reminder-app-like-hydro.jpg",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen3.png",
               alt: "",
             },
             {
-              url: "https://i.pinimg.com/474x/29/56/9b/29569b7234b60e44fc69faac4bdcd838.jpg",
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen4.png",
+              alt: "",
+            },
+            {
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen5.png",
+              alt: "",
+            },
+            {
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen6.png",
+              alt: "",
+            },
+            {
+              url: "https://github.com/Okimas/home/raw/master/src/assets/images/screen7.png",
               alt: "",
             },
           ],
