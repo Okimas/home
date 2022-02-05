@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/home/static/css/main.845d0c83.css",
-    "main.js": "/home/static/js/main.7e062f84.js",
+    "main.js": "/home/static/js/main.9a349e2e.js",
     "static/js/787.82398c9d.chunk.js": "/home/static/js/787.82398c9d.chunk.js",
     "static/media/PoiretOne-Regular.ttf": "/home/static/media/PoiretOne-Regular.a453ae9bf019e86c566c.ttf",
     "static/media/background-dark.jpg": "/home/static/media/background-dark.a5fd5c9fb2efd02a1992.jpg",
@@ -9,11 +9,11 @@
     "static/media/icons.svg": "/home/static/media/icons.79860b11eff7eff93a2c801b03b3eb76.svg",
     "index.html": "/home/index.html",
     "main.845d0c83.css.map": "/home/static/css/main.845d0c83.css.map",
-    "main.7e062f84.js.map": "/home/static/js/main.7e062f84.js.map",
+    "main.9a349e2e.js.map": "/home/static/js/main.9a349e2e.js.map",
     "787.82398c9d.chunk.js.map": "/home/static/js/787.82398c9d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.845d0c83.css",
-    "static/js/main.7e062f84.js"
+    "static/js/main.9a349e2e.js"
   ]
 }
