@@ -183,7 +183,7 @@ const staticData = [
             text: `Hi, my name is Ricardo and you are very welcome!<br/>I hope you find the information that you are looking for and more.`,
           },
           {
-            text: `Since you're here I believe we could keep in touch! <a href="https://br.linkedin.com/in/ricardo-okimoto" target="_blank">Send me a invite</a>.<br/><br/>`,
+            text: `Could we connect on LinkedIn!? <a href="https://br.linkedin.com/in/ricardo-okimoto" target="_blank">Send me a invite</a>.<br/><br/>`,
           },
           {
             title: "I want to be part of the solution",
